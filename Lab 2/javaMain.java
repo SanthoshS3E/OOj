@@ -59,7 +59,7 @@ public void computeSGPA(){
 }
 }
 
-class javaMaiin{
+class javaMain{
     public static void main(String args[]){
         Student s=new Student();
         s.getStudentDetails();
